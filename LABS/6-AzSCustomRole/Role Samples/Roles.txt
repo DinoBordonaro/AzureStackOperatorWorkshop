@@ -1,0 +1,15 @@
+Tenant Workspace
+
+Global ReadOnly -> GlobalReadOnly.txt
+Subscription Administrator -> SubscriptionAdministrator.txt
+System Administrator -> SystemAdministrator.txt
+Security Auditor -> SecurityAuditor.txt
+IAM Administrator -> IAM.txt
+Log Administrator -> LogAdministrator.txt
+Network Administrator -> NetworkAdministrator.txt
+Helpdesk -> Helpdesk.txt
+
+Azure Stack
+
+Azure Stack Operator
+Azure Stack Administrator

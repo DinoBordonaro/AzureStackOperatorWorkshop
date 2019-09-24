@@ -1,0 +1,5 @@
+"Microsoft.Subscriptions.Admin/subscriptions/read",
+"Microsoft.Subscriptions.Admin/subscriptions/write",
+"Microsoft.Subscriptions.Admin/subscriptions/acquiredPlans/read",
+"Microsoft.Subscriptions.Admin/subscriptions/acquiredPlans/write",
+"Microsoft.Subscriptions.Admin/operations/read"
